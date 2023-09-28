@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { FaUserAlt, FaShoppingCart, FaSearch } from "react-icons/fa";
-import Logo from "./ui/Logo";
-import Search from "./ui/Search";
+import Logo from "../ui/Logo";
+import Search from "../ui/Search";
 import { GiHamburgerMenu, GiCancel } from "react-icons/gi";
 
 const Header = () => {
